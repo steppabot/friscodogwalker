@@ -2433,53 +2433,20 @@ html {
     object-fit: cover;
 }
 
-.celina-page .city-trust-section .trust-grid img:nth-child(1) {
-    object-position: center 80%;
+/* =========================
+   FRISCO DOMAIN PAGE TWEAKS
+========================= */
+
+.frisco-domain-page .trust-grid img:nth-child(1) {
+    object-position: center 42%;
 }
 
-.celina-page .city-trust-section .trust-grid img:nth-child(2) {
-    object-position: center 43%;
+.frisco-domain-page .trust-grid img:nth-child(2) {
+    object-position: center 42%;
 }
 
-.celina-page .city-trust-section .trust-grid img:nth-child(3) {
-    object-position: center 52%;
-}
-
-.frisco-page .city-trust-section .trust-grid img:nth-child(1) {
-    object-position: center 65%;
-}
-
-.frisco-page .city-trust-section .trust-grid img:nth-child(2) {
-    object-position: center 60%;
-}
-
-.frisco-page .city-trust-section .trust-grid img:nth-child(3) {
-    object-position: center 30%;
-}
-
-.prosper-page .city-trust-section .trust-grid img:nth-child(1) {
+.frisco-domain-page .trust-grid img:nth-child(3) {
     object-position: center 38%;
-}
-
-.prosper-page .city-trust-section .trust-grid img:nth-child(2) {
-    object-position: center 35%;
-}
-
-.prosper-page .city-trust-section .trust-grid img:nth-child(3) {
-    object-position: center 22%;
-}
-
-/* Little Elm specific tweaks */
-.little-elm-page .trust-grid img:nth-child(1) {
-    object-position: center 20%;
-}
-
-.little-elm-page .trust-grid img:nth-child(2) {
-    object-position: center 55%;
-}
-
-.little-elm-page .trust-grid img:nth-child(3) {
-    object-position: center 30%;
 }
 
 @media (max-width: 980px) {
