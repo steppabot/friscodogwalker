@@ -2438,15 +2438,15 @@ html {
 ========================= */
 
 .frisco-domain-page .trust-grid img:nth-child(1) {
-    object-position: center 42%;
+    object-position: center 65%;
 }
 
 .frisco-domain-page .trust-grid img:nth-child(2) {
-    object-position: center 42%;
+    object-position: center 60%;
 }
 
 .frisco-domain-page .trust-grid img:nth-child(3) {
-    object-position: center 38%;
+    object-position: center 30%;
 }
 
 @media (max-width: 980px) {
